@@ -1,4 +1,3 @@
-ines (25 sloc) 703 Bytes
 require 'rails_helper'
 
 describe 'navigate' do
